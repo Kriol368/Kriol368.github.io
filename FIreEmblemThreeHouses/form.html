@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<!--Creado por Andreu Beltran-->
+<html lang="es">
+
+<head>
+    <title>Formulario</title>
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/x-jpeg" href="media/img/icon.png">
+    <!--  <link rel="stylesheet" type="text/css" href="styles1.css"> --> 
+    <link rel="stylesheet" type="text/css" href="styles2.css">
+
+</head>
+
+<body id="form">
+    <header>
+        <h1>Sugerencias</h1>
+    </header>
+    <nav>
+        <ul id="menu">
+            <li><a href="index.html">Inicio</a></li>
+            <li><a href="characters.html">Personajes</a></li>
+            <li><a href="form.html">Sugerencias</a></li>
+            <li> <a href="https://fireemblem.fandom.com/wiki/Fire_Emblem:_Three_Houses">Wiki</a></li>
+            <li><a href="https://serenesforest.net/three-houses/">Serenes Forest</a></li>
+        </ul>
+    </nav>
+
+    <p>Si tienes alguna duda o sugerencia respecto a mi página web, por favor hazmelo saber rellenando el siguiente
+        formulario:</p>
+        <br>
+    <form name="MiFormulario" action="post">
+        <label>Tipo de consulta:</label>
+        <select name="Tipo">
+            <option value="Duda">Duda</option>
+            <option value="Sugerencia">Sugerencia</option>
+        </select>
+        <br>
+        <br>
+        <label>Nombre:</label>
+        <input type="text" name="usuario" size="30" maxlength="20" placeholder="Escriba aqui su nombre">
+        <br>
+        <br>
+        <label>Correo electronico:</label>
+        <input type="text" name="correo" size="40" maxlength="20" placeholder="Escriba aqui su correo electronico">
+        <br>
+        <br>
+        <label>Contraseña:</label>
+        <input type="password" name="contraseña" size="50" maxlength="20"
+            placeholder="Escriba aqui la contraseña de su correo (para nada esto es phishing)">
+        <br>
+        <br>
+        <label>He leido y acepto la política de privacidad:</label>
+        <input type="checkbox" name="privacidad" checked>
+        <br>
+        <br>
+
+        <label>Escriba aqui su duda o sugerencia:</label>
+        <textarea name="interests" id="interests" rows="4" cols="50" placeholder="Escriba aqui su duda o sugerencia...">
+        </textarea>
+    </form>
+    <audio src="media/aud/Life_at_Garreg_Mach_Monastery.mp3" controls autoplay loop hidden>
+        <p>Si estas viendo este mensaje, tu navegador no soporta la reproduccion automatica de audio o la tienes
+            deshabilitada</p>
+    </audio>
+        <footer>
+            <p><a href="index.html">Volver a la pagina principal</a></p>
+        </footer>
+</body>
+
+</html>
