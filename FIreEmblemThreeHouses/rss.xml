@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Fire Emblem Three Houses</title>
+        <link>https://kriol368.github.io/FIreEmblemThreeHouses/index.html</link>
+        <description>Pagina web dedicada a el videojuego Fire Emblem: Three Houses</description>
+        <item>
+            <title>Personajes</title>
+        <link>https://kriol368.github.io/FIreEmblemThreeHouses/characters.html</link>
+            <description>Personajes</description>
+        </item>
+        <item>
+            <title>Formulario</title>
+        <link>https://kriol368.github.io/FIreEmblemThreeHouses/form.html</link>
+            <description>Formulario</description>
+        </item>
+    </channel>
+</rss>
