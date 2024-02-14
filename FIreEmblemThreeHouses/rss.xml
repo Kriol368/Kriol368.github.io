@@ -5,13 +5,13 @@
         <link>https://kriol368.github.io/FireEmblemThreeHouses/index.html</link>
         <description>Pagina web dedicada a el videojuego Fire Emblem: Three Houses</description>
         <item>
-            <title>Personajes</title>
-        <link>https://kriol368.github.io/FireEmblemThreeHouses/characters.html</link>
+            <title><![CDATA[Personajes]]></title>
+            <link>https://kriol368.github.io/FireEmblemThreeHouses/characters.html</link>
             <description>Personajes del videojuego Fire Emblem: Three Houses</description>
         </item>
         <item>
             <title>Formulario</title>
-        <link>https://kriol368.github.io/FireEmblemThreeHouses/form.html</link>
+            <link>https://kriol368.github.io/FireEmblemThreeHouses/form.html</link>
             <description>Formulario del videojuego Fire Emblem: Three Houses</description>
         </item>
     </channel>
