@@ -176,7 +176,7 @@ td:hover {
     text-align: center;
 }
 article{
-    padding: 1rem 5rem;
+    padding: 1% 5%;
 }
 .textoIntroduccion{
     display: inline-block;
@@ -210,5 +210,5 @@ article{
     clear: left;
 }
   section{
-    padding: 2rem 2rem
+    padding: 2% 2%
   }
