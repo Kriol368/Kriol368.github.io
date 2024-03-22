@@ -20,7 +20,7 @@ Para esto, he realizado las siguientes modificaciones:
 - Finalmente he añadido las media querys para que los distintos dispositivos tengan el texto de diferentes tamaños y así facilitar su lectura.
 
   ```css
-  @ media(min-width: 560px) {
+  @media(min-width: 560px) {
   td > img{
       width: auto;
   }
