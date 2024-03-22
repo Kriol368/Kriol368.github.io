@@ -218,7 +218,7 @@ article{
 
 
   @media (min-width: 980px) {
-    img{
+    td > img{
         width: auto;
     }
     body, th, td, a, h4 {
@@ -228,20 +228,20 @@ article{
 
 
   @media (min-width: 760px) {
-    img{
+    td > img{
         width: auto;
     }
     body, th, td, a, h4 {
-    font-size: 24px;
+    font-size: 28px;
     }
     }
 
 
   @media (min-width: 560px) {
-    img{
+    td > img{
         width: auto;
     }
     body, th, td, a, h4 {
-    font-size: 22px;
+    font-size: 30px;
     }
     }
